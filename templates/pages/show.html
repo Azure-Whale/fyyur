@@ -1,0 +1,24 @@
+{% extends 'layouts/main.html' %}
+{% block title %}Show Search{% endblock %}
+{% block content %}
+    <div>
+        <form class="search" method="post">
+            <input class="form-control"
+              type="search"
+              name="search_term"
+              placeholder="Find shows by artist name"
+              aria-label="Search">
+        </form>
+    </div>
+    <div class="page-header">
+        <h1>Fyyur Search!</h1>
+    </div>
+    <p class="lead"> Show Search </p>
+
+    <ul class="nav nav-pills">
+        <li class="active"><a>Shows</a></li>
+    </ul>
+
+{#    Todo implement show search frontend #}
+
+{% endblock %}
