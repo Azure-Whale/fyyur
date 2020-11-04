@@ -253,7 +253,6 @@ def search_venues():
                 "num_upcoming_shows": v.get_upcoming_shows_count
             } for v in results]
         }
-        print(response)
         return render_template('pages/search_venues.html', results=response,
                                search_term=request.form.get('search_term', ''))
     except:
