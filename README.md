@@ -54,4 +54,4 @@ Highlight folders:
 * Models in `app.py` --  Defines the data models that set up the database tables.
 * `config.py` --  Stores configuration variables and instructions, separate from the main application code. This is where you will need to connect to the database.
 
-![alter text]https://github.com/Azure-Whale/fyyur/blob/main/image/Artist.jpeg
+![alt text]https://github.com/Azure-Whale/fyyur/blob/main/image/Artist.jpeg
