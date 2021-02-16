@@ -60,5 +60,5 @@ Highlight folders:
 #### Show Page
 ![alt text](https://github.com/Azure-Whale/fyyur/blob/main/image/Show.jpeg)
 #### If you are adding something
-![alt text](https://github.com/Azure-Whale/fyyur/blob/main/image/New.jpeg)
+![alt text](https://github.com/Azure-Whale/fyyur/blob/main/image/new.jpeg)
 
